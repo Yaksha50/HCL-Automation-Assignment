@@ -1,5 +1,5 @@
  
-package Assignment1;
+package Assignment1.Task4;
 
 import java.util.Scanner;
 

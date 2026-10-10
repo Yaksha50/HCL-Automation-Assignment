@@ -1,4 +1,4 @@
-package Assignment1;
+package Assignment1.Task3;
 import java.util.Scanner; 
 // 3	Write a program to perform addition, subtraction, multiplication, transpose, to check 
 // square matrix, to check matrix is diagonal, and to check matrix is identity.
