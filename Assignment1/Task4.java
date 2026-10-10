@@ -1,5 +1,5 @@
  
-package Assesment1;
+package Assignment1;
 
 import java.util.Scanner;
 
